@@ -95,9 +95,9 @@ return [
 
 
     // EDAMAM ID AND KEY
-    'edamam_id' => env('EDAMAM_ID','55b1a8b2'),
+    'edamam_id' => env('EDAMAM_ID','d7b22920'),
 
-    'edamam_key' => env('EDAMAM_KEY','4adb6a9210b81868238227efd64dd61a'),
+    'edamam_key' => env('EDAMAM_KEY','06d11f0d84aebe39072b98c3cee99641'),
 
     /*
     |--------------------------------------------------------------------------
