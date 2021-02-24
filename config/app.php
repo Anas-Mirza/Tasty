@@ -94,11 +94,7 @@ return [
     'fallback_locale' => 'en',
 
 
-    // EDAMAM ID AND KEY
-    'edamam_id' => env('EDAMAM_ID','d7b22920'),
-
-    'edamam_key' => env('EDAMAM_KEY','06d11f0d84aebe39072b98c3cee99641'),
-
+   
     /*
     |--------------------------------------------------------------------------
     | Encryption Key
